@@ -1,2 +1,3 @@
-# githubPages-test
-A test repository for testing GitHub pages calls
+# Github Pages
+A test repository
+
